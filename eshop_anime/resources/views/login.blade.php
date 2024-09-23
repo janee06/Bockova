@@ -6,6 +6,8 @@
     <title>login</title>
 </head>
 <body>
-    
+    <nav></nav>
+    <li>
+    <footer></footer>
 </body>
 </html>
